@@ -1,4 +1,0 @@
-<?
-
-// jason jason jason jason
-?>
