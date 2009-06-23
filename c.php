@@ -1,0 +1,3 @@
+<?
+$fp=fopen("blahblah","r");
+?>
