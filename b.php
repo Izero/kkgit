@@ -4,3 +4,8 @@ function aaa()
 {
 }
 ?>
+<?
+function bbb()
+{
+}
+?>
