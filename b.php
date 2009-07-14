@@ -9,3 +9,8 @@ function bbb()
 {
 }
 ?>
+<?
+function ccc()
+{
+}
+?>
