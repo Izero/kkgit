@@ -1,3 +1,4 @@
 <?
 echo "wing";
+print "WIN!!";
 ?>
