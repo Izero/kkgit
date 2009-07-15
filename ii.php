@@ -1,3 +1,0 @@
-<?
-//add php test
-?>
