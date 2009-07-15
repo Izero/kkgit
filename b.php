@@ -5,6 +5,7 @@ function aaa()
 }
 ?>
 <?
+//gagaga
 function bbb()
 {
 }
