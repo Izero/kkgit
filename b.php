@@ -11,7 +11,7 @@ function bbb()
 }
 ?>
 <?
-// test cc
+// test cc'ss
 function ccc()
 {
 }
