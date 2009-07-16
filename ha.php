@@ -1,0 +1,3 @@
+<?
+echo "ha ha ha";
+?>
