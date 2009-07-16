@@ -1,3 +1,5 @@
 <?
 echo "aaaa";
+echo "bbb";
+
 ?>
