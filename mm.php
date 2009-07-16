@@ -1,4 +1,3 @@
 <?
-echo "test";
-
+echo "aaaa";
 ?>
