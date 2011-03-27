@@ -6,5 +6,9 @@ br2
 br4
 br5
 rebase1
+<<<<<<< HEAD
 rebase2
 br3
+=======
+featureA
+>>>>>>> e8687df... add test3
